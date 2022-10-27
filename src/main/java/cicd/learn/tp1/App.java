@@ -8,6 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "CICD rocks!" );
+        System.out.println( "CICD rocks! AHHHH" );
+        System.out.println( "Feature #002 " );
     }
 }
